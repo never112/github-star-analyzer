@@ -62,6 +62,8 @@ services:
 
 ## 输出示例
 
+![Star 分析报告示例](report.png)
+
 生成的 HTML 报告包含：
 
 1. **统计卡片**：总 Stars、活跃天数、单日最高
